@@ -1,1 +1,1 @@
-# rock-paper-scissor-frontend
+# Tugas Akhir Rakamin BSI
